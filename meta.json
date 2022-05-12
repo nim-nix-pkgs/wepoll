@@ -2,13 +2,72 @@
   "name": "wepoll",
   "url": "https://github.com/xflywind/wepoll",
   "method": "git",
-  "tags": [],
+  "tags": [
+    {
+      "name": "wepoll",
+      "version": "0.1.0",
+      "author": "flywind",
+      "desc": "Windows epoll wrapper.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/v0.1.0"
+    }
+  ],
   "description": "Windows epoll wrapper.",
   "license": "MIT",
   "web": "https://github.com/xflywind/wepoll",
   "refs": [
-    "fatal: unable to access 'https://github.com/xflywind/wepoll/': Could not resolve host: github.com",
+    "refs/heads/master",
+    "refs/tags/v0.1.0",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "wepoll",
+      "version": "0.1.0",
+      "author": "flywind",
+      "desc": "Windows epoll wrapper.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
