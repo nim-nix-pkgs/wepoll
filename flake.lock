@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657153396,
-        "narHash": "sha256-7P8AU6+u57GhxuPYNzQnvBMwEZl7mAi2slUevEeB9JM=",
+        "lastModified": 1658018372,
+        "narHash": "sha256-k4KGPl4BkpCG2VMmYU5KbbF+K/r0WuCBkO4pJIEKbqg=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "576c40d1c7d14b3a53ca4eab4cf317ae398c6b28",
+        "rev": "10d9bfa5454f522bd1f04eba1f907930d178b9ac",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1657153396,
-        "narHash": "sha256-7P8AU6+u57GhxuPYNzQnvBMwEZl7mAi2slUevEeB9JM=",
+        "lastModified": 1658018372,
+        "narHash": "sha256-k4KGPl4BkpCG2VMmYU5KbbF+K/r0WuCBkO4pJIEKbqg=",
         "owner": "nim-nix-pkgs",
         "repo": "wepoll",
-        "rev": "576c40d1c7d14b3a53ca4eab4cf317ae398c6b28",
+        "rev": "10d9bfa5454f522bd1f04eba1f907930d178b9ac",
         "type": "github"
       },
       "original": {
